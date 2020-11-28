@@ -24,7 +24,7 @@ h1 {
     font-size: 48px;
 }
 
-header h1 .seo {
+#seo {
     color: #d9dcd6;
 }
 
@@ -45,7 +45,7 @@ nav ul li {
     margin-left: 25px;
 }
 
-h2 {
+.service h2 {
     margin-bottom: 20px;
     font-size: 36px;
 }
