@@ -70,7 +70,7 @@ nav ul li {
     background-position: center;
 }
 
-/* main section formatting - I consolidated classes and made them element tags instead to make the html semantic */
+/* main section formatting - consolidated classes and made them element tags instead to make the html semantic */
 
 main {
     width: 75%;
@@ -97,7 +97,7 @@ article {
     margin-left: 25px;
 }
 
-/* side bar at right formatting - once again I consolidated the classes and made them semantic html element tags */
+/* side bar at right formatting - consolidated the classes and made them semantic html element tags */
 
 aside {
     margin-right: 20px;
