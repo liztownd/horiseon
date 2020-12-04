@@ -8,7 +8,7 @@ I added alt tags to all the images to make the website accessible.
 
 I fixed the links by adding id tags to the articles.
 
-I made a lot of classes no longer classes, but changed them to elements (i.e. < header > tag instead of < div class="header" >, changing generic divs to main, aside, etc.), thereby making the html semantic.
+I made a lot of classes no longer classes, but changed them to elements (i.e. `<header>` tag instead of `<div class="header">`, changing generic divs to `<main>`, `<aside>`, etc.), thereby making the html semantic.
 
 I rearranged the style.css file so the elements/classes fell in the order they would appear in the html file and were grouped together, to make it more readable.
 
